@@ -1,40 +1,142 @@
-🧰 Tech Stack
-Frontend
+🛡️ Cyber Intelligence Analyzer
 
-React
+Cyber Intelligence Analyzer is a cybersecurity reconnaissance and analysis toolkit designed to gather intelligence about domains, websites, and network infrastructure.
 
-Tailwind
+The tool integrates multiple OSINT, security analysis, and reconnaissance utilities into a single platform to help security researchers, students, and ethical hackers analyze web assets efficiently.
 
-Next.js
+Cyber threat intelligence tools help security analysts collect and analyze threat data to detect vulnerabilities and potential attacks in digital systems.
 
-Backend
+🚀 Features
+🌐 Domain Intelligence
 
-Python Flask / FastAPI
+Tools for collecting information about domains and DNS infrastructure.
 
-Node.js
+DNS Lookup
 
-AI
+Whois Information
 
-OpenAI API
+Domain Age Checker
 
-Resume NLP parser
+Subdomain Enumeration
 
-Automation
+DNS Records Extraction
 
-Selenium
+🔒 Security Analysis
 
-Playwright
+Security tools for detecting vulnerabilities and misconfigurations.
 
-Database
+SSL Certificate Analyzer
 
-PostgreSQL
+Vulnerability Scanner
 
-MongoDB
+CSRF Vulnerability Detection
 
-Hosting
+Security Header Checker
 
-AWS
+Phishing Website Detection
 
-Render
+🕵️ Website Reconnaissance
 
-Vercel
+Tools for mapping and analyzing website structures.
+
+Website Crawler
+
+Internal Link Mapper
+
+External Link Analyzer
+
+Directory Enumeration
+
+Robots.txt Analyzer
+
+Sitemap Parser
+
+🛠️ Technologies Used
+
+Python
+
+Flask
+
+HTML
+
+CSS
+
+JavaScript
+
+Git
+
+📂 Project Structure
+Cyber-Intelligence-Analyzer
+│
+├── app.py
+├── requirements.txt
+│
+├── templates/
+│   ├── index.html
+│   ├── results.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│
+└── README.md
+⚙️ Installation
+
+Clone the repository:
+
+git clone https://github.com/vr8010/Cyber-Intelligence-Analyzer.git
+cd Cyber-Intelligence-Analyzer
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the application:
+
+python app.py
+
+Open in browser:
+
+http://127.0.0.1:5000
+📸 Screenshots
+
+Add screenshots of your dashboard here.
+
+Example:
+
+/screenshots/dashboard.png
+/screenshots/tools.png
+🎯 Use Cases
+
+Cybersecurity research
+
+Ethical hacking practice
+
+Website security auditing
+
+OSINT investigations
+
+Learning cybersecurity tools
+
+⚠️ Disclaimer
+
+This tool is created for educational and ethical security research purposes only.
+Do not use it on systems without proper authorization.
+
+👨‍💻 Author
+
+Vishal Rathod
+
+GitHub:
+https://github.com/vr8010
+
+⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
+
+🍴 Fork the project
+
+🛠️ Contribute improvements
